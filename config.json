@@ -1,0 +1,5 @@
+{
+  "webhook_url": "PUT YOUR WEBHOOK URL HERE FROM DISCORD :)",
+  "role_id": "THE ROLE ID TO MENTION WHEN A PRODUCT IS IN STOCK - BELOW IS DELAY IN MINUTES",
+  "delay": 1
+}
