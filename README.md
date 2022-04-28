@@ -8,3 +8,6 @@ Notifies you via Discord when an item is in stock on Amazon
 4. Put your links in ```links.txt```
 5. Run ```main.py```
 6. Have Fun :)
+
+# Note
+Dont copy/paste the link, stuffs up the monitoring for some reason. Click the share button and copy link in amazon for it to work properly. Links should look like this - ```https://www.amazon.com.au/dp/B07PJV9DHV/```
